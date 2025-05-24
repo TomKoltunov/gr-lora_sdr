@@ -14,3 +14,4 @@
 ## Note
 
 I don’t have an SDR dongle, so I used simulated input instead.
+I used in this assignment the assistance of chatGPT.
